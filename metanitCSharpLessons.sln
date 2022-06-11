@@ -19,11 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.07.BitwiseOperations", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.08.AssignmentOperations", "01.08.AssignmentOperations\01.08.AssignmentOperations.csproj", "{C8ADAA98-B3B7-4074-A783-1059ACA821CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.09. BaseTypeConversions", "01.09. BaseTypeConversions\01.09. BaseTypeConversions.csproj", "{E61CB1EC-9207-4234-AE71-904BE45E652D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.09. BaseTypeConversions", "01.09. BaseTypeConversions\01.09. BaseTypeConversions.csproj", "{E61CB1EC-9207-4234-AE71-904BE45E652D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.10.BooleanExpressions", "01.10.BooleanExpressions\01.10.BooleanExpressions.csproj", "{70A6A79F-7788-4FB0-BE23-50B8A5D46429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.10.BooleanExpressions", "01.10.BooleanExpressions\01.10.BooleanExpressions.csproj", "{70A6A79F-7788-4FB0-BE23-50B8A5D46429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.IfElseOperators", "01.11.IfElseOperators\01.11.IfElseOperators.csproj", "{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.11.00.IfElseOperators", "01.11.IfElseOperators\01.11.00.IfElseOperators.csproj", "{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.01.HomeworkIfEsle", "01.11.01.HomeworkIfEsle\01.11.01.HomeworkIfEsle.csproj", "{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.02.HomeworkIfEsle", "01.11.02.HomeworkIfEsle\01.11.02.HomeworkIfEsle.csproj", "{3843E52F-9A60-4518-9CC7-E1D7787BA0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.03.HomeworkIfEsle", "01.11.03.HomeworkIfEsle\01.11.03.HomeworkIfEsle.csproj", "{B94C7A0C-EA0D-4122-8402-335F73F4B8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.04.HomeworkIfEsle", "01.11.04.HomeworkIfEsle\01.11.04.HomeworkIfEsle.csproj", "{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.05.HomeworkIfEsle", "01.11.05.HomeworkIfEsle\01.11.05.HomeworkIfEsle.csproj", "{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +85,26 @@ Global
 		{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3843E52F-9A60-4518-9CC7-E1D7787BA0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3843E52F-9A60-4518-9CC7-E1D7787BA0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3843E52F-9A60-4518-9CC7-E1D7787BA0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3843E52F-9A60-4518-9CC7-E1D7787BA0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94C7A0C-EA0D-4122-8402-335F73F4B8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94C7A0C-EA0D-4122-8402-335F73F4B8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94C7A0C-EA0D-4122-8402-335F73F4B8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94C7A0C-EA0D-4122-8402-335F73F4B8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
