@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.09. BaseTypeConversions"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.10.BooleanExpressions", "01.10.BooleanExpressions\01.10.BooleanExpressions.csproj", "{70A6A79F-7788-4FB0-BE23-50B8A5D46429}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.11.00.IfElseOperators", "01.11.IfElseOperators\01.11.00.IfElseOperators.csproj", "{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.11.IfElseOperators", "01.11.IfElseOperators\01.11.IfElseOperators.csproj", "{0A0164AB-E2F8-4A75-9B57-54A9C4D557A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.01.HomeworkIfEsle", "01.11.01.HomeworkIfEsle\01.11.01.HomeworkIfEsle.csproj", "{BD61EA8E-9009-49E1-BA53-9D52D38B6DE2}"
 EndProject
@@ -34,6 +34,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.04.HomeworkIfEsle", "01.11.04.HomeworkIfEsle\01.11.04.HomeworkIfEsle.csproj", "{04620359-8CF9-40AF-A7F0-AF6001F1E2A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.11.05.HomeworkIfEsle", "01.11.05.HomeworkIfEsle\01.11.05.HomeworkIfEsle.csproj", "{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.12.CyclesForFoeachWhileDoWhile", "01.12.CyclesForFoeachWhileDoWhile\01.12.CyclesForFoeachWhileDoWhile.csproj", "{D0EF0E0E-DD12-4CE2-91B8-D476352725FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.12.01.HomeworkCycles", "01.12.01.HomeworkCycles\01.12.01.HomeworkCycles.csproj", "{34DEFCDC-59B9-40A2-BD2A-B9F3E687FE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.12.02.HomeworkCycles", "01.12.02.HomeworkCycles\01.12.02.HomeworkCycles.csproj", "{4D29493A-1C8B-4086-90B7-84965DD6F21A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.12.03.HomeworkCycles", "01.12.03.HomeworkCycles\01.12.03.HomeworkCycles.csproj", "{1684FF55-8F0B-4126-B70F-0C502B2B3AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.12.04.HomeworkCycles", "01.12.04.HomeworkCycles\01.12.04.HomeworkCycles.csproj", "{1AF97F09-B779-4568-8E07-C0DF9DA5A9C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +115,26 @@ Global
 		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443AD401-DD8D-4AC4-BFF3-4AC625DBD53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EF0E0E-DD12-4CE2-91B8-D476352725FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EF0E0E-DD12-4CE2-91B8-D476352725FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EF0E0E-DD12-4CE2-91B8-D476352725FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EF0E0E-DD12-4CE2-91B8-D476352725FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DEFCDC-59B9-40A2-BD2A-B9F3E687FE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DEFCDC-59B9-40A2-BD2A-B9F3E687FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DEFCDC-59B9-40A2-BD2A-B9F3E687FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DEFCDC-59B9-40A2-BD2A-B9F3E687FE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D29493A-1C8B-4086-90B7-84965DD6F21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D29493A-1C8B-4086-90B7-84965DD6F21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D29493A-1C8B-4086-90B7-84965DD6F21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D29493A-1C8B-4086-90B7-84965DD6F21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1684FF55-8F0B-4126-B70F-0C502B2B3AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1684FF55-8F0B-4126-B70F-0C502B2B3AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1684FF55-8F0B-4126-B70F-0C502B2B3AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1684FF55-8F0B-4126-B70F-0C502B2B3AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF97F09-B779-4568-8E07-C0DF9DA5A9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF97F09-B779-4568-8E07-C0DF9DA5A9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF97F09-B779-4568-8E07-C0DF9DA5A9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF97F09-B779-4568-8E07-C0DF9DA5A9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

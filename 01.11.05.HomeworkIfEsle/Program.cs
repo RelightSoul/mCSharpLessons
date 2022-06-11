@@ -8,14 +8,14 @@ double depositEmount = Convert.ToDouble(Console.ReadLine());
 double bankBonuses = 15;
 if (depositEmount < 100)
 {
-    depositEmount = depositEmount + 0.05 * depositEmount;
+    depositEmount += 0.05 * depositEmount;
 }
 else if (100 <= depositEmount && depositEmount <= 200)
 {
-    depositEmount = depositEmount + 0.07 * depositEmount;
+    depositEmount += 0.07 * depositEmount;
 }
 else
 {
-    depositEmount = depositEmount + 0.1 * depositEmount;
+    depositEmount += 0.1 * depositEmount;
 }
 Console.WriteLine("Сумма вклада с начисленными процентами и бонусом от банка: {0}", depositEmount + bankBonuses);
