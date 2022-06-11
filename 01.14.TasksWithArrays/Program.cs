@@ -13,6 +13,7 @@ foreach (int i in numbers)
 Console.WriteLine(result);
 #endregion
 Console.WriteLine();
+
 #region Инверсия массива
 int[] newArray = { -4, -3, -2, -1, 0, 1, 2, 3, 4 };
 int n = newArray.Length;  //длина
@@ -30,7 +31,7 @@ foreach (int i in newArray)
 }
 #endregion
 Console.WriteLine();
-Console.WriteLine();
+
 #region Программа сортировки массива
 int[] nums = { 54, 7, -41, 2, 4, 2, 89, 33, -5, 12 };
 int newTemp;
