@@ -1,15 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>_2._07.Namespace</RootNamespace>
+    <RootNamespace>_2._10.MyLibrary</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\2.06.FieldOfView\2.06.FieldOfView.csproj" />
-  </ItemGroup>
 
 </Project>
