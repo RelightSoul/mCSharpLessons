@@ -30,6 +30,16 @@ namespace _2._04.Structures
             Person2 person2 = new Person2();
             person2.Print();
 
+            //Также, как и для класса, можно использовать инициализатор для создания структуры
+            Person2 sam2 = new Person2() { Name = "Sam2", Age = 13};
+
+            #region Копирование структуры с помощью with
+            //  Если нам необходимо скопировать в один объект структуры значения из другого с небольшими
+            //  изменениями, то мы можем использовать оператор with
+
+            Person2 newOldSam = sam2 with { Age = 77 };
+            #endregion
+
         }
     }
 }
@@ -59,9 +69,19 @@ struct Person2
     {
         Name = "Undefined"; Age = 0;  // по умолчанию
     }
+    public Person2(string name): this(name,0)
+    {
+        Name = name;
+    }
+    public Person2(string name,int age)
+    {
+        Name = name; Age = age;  
+    }
     public void Print()
     {
         Console.WriteLine($"Имя: {Name}, Возраст: {Age}");
     }
 }
+//  В случае если нам необходимо вызывать конструкторы с различным количеством параметров, то мы можем, как
+//  и в случае с классами, вызывать их по цепочке
 
