@@ -18,7 +18,8 @@
 
 //  public: публичный, общедоступный компонент класса или структуры. Такой компонент доступен
 //  из любого места в коде, а также из других программ и сборок.
-using MyLibrary;
+using _2._10.MyLibrary;
+
 class State
 {
     // все равно, что private string defaultVar;
@@ -78,5 +79,25 @@ class StateConsumer
         newState.PrintProtectedInternal();
 
         newState.PrintPublic();
+    }
+}
+// из подключённой библиотеки MyLibrary
+class StateConsumer2
+{
+    public void PrintState2()
+    {
+        // Ошибка DefaultState - по умолчанию internal, поэтому нет доступа
+        //      DefaultState defaultState = new DefaultState();
+        // Ошибка InternalState - internal, поэтому нет доступа
+        //      InternalState internalState = new InternalState();
+
+        // норм, PublicState - public, доступен из других программ
+        PublicState publicState = new PublicState();
+        // Ошибка, нет доступа - метод доступен только в свой сборке
+        //      publicState.PrintInternal();
+        // Ошибка, нет доступа - метод доступен только в свой сборке
+        //      publicState.PrintProtectedInternal();  // нет доступа
+        // норм - общедоступный метод
+        publicState.PrintPublic();      // норм
     }
 }
