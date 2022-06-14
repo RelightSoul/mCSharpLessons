@@ -73,25 +73,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.23.Emun", "1.23.Emun\1.23
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.01.ClassesStructuresNamespace", "2.01.ClassesStructuresNamespace\2.01.ClassesStructuresNamespace.csproj", "{07D76A50-8969-4AC4-BF4B-BBACD416A306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.02.Cosntructors", "2.02.Cosntructors\2.02.Cosntructors.csproj", "{DF33D763-877A-4CA3-9A5E-66D65034C340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.02.Cosntructors", "2.02.Cosntructors\2.02.Cosntructors.csproj", "{DF33D763-877A-4CA3-9A5E-66D65034C340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.03.ProgramMain", "2.03.ProgramMain\2.03.ProgramMain.csproj", "{3EC5EC49-95B9-4CDE-9DCF-A6320E01E929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.03.ProgramMain", "2.03.ProgramMain\2.03.ProgramMain.csproj", "{3EC5EC49-95B9-4CDE-9DCF-A6320E01E929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.04.Structures", "2.04.Structures\2.04.Structures.csproj", "{9E30EBC1-08C5-4030-999D-AEA77D599AC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.04.Structures", "2.04.Structures\2.04.Structures.csproj", "{9E30EBC1-08C5-4030-999D-AEA77D599AC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.05.ValueAndReferenceTypes", "2.05.ValueAndReferenceTypes\2.05.ValueAndReferenceTypes.csproj", "{F01C7B24-7089-4F25-8834-A3C800F01D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.05.ValueAndReferenceTypes", "2.05.ValueAndReferenceTypes\2.05.ValueAndReferenceTypes.csproj", "{F01C7B24-7089-4F25-8834-A3C800F01D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.06.FieldOfView", "2.06.FieldOfView\2.06.FieldOfView.csproj", "{2CC2D280-EA91-4081-AF84-8286206B3DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.06.FieldOfView", "2.06.FieldOfView\2.06.FieldOfView.csproj", "{2CC2D280-EA91-4081-AF84-8286206B3DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.07.Namespace", "2.07.Namespace\2.07.Namespace.csproj", "{187E8D33-6144-41A6-82AE-8EE499DDFED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.07.Namespace", "2.07.Namespace\2.07.Namespace.csproj", "{187E8D33-6144-41A6-82AE-8EE499DDFED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.08.GlobalNamespace", "2.08.GlobalNamespace\2.08.GlobalNamespace.csproj", "{D7FB2459-493A-44A1-A13E-148DA17A7FCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.08.GlobalNamespace", "2.08.GlobalNamespace\2.08.GlobalNamespace.csproj", "{D7FB2459-493A-44A1-A13E-148DA17A7FCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09.DefaultNamespace", "2.09.DefaultNamespace\2.09.DefaultNamespace.csproj", "{235D3363-9720-4BE8-A527-3AE19E6817FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.09.DefaultNamespace", "2.09.DefaultNamespace\2.09.DefaultNamespace.csproj", "{235D3363-9720-4BE8-A527-3AE19E6817FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10.Library", "2.10.Library\2.10.Library.csproj", "{3527EAC9-108E-4449-B44C-312475E00D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.10.Library", "2.10.Library\2.10.Library.csproj", "{3527EAC9-108E-4449-B44C-312475E00D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10.MyLibrary", "2.10.MyLibrary\2.10.MyLibrary.csproj", "{56B0D714-9E67-4885-83D9-68CDAB9F63C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.10.MyLibrary", "2.10.MyLibrary\2.10.MyLibrary.csproj", "{56B0D714-9E67-4885-83D9-68CDAB9F63C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.11.AccessModifiers", "2.11.AccessModifiers\2.11.AccessModifiers.csproj", "{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
