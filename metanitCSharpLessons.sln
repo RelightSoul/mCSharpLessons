@@ -121,6 +121,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.04.MethodsPropHiding", "3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.05.NewVirtualDifference", "3.05.NewVirtualDifference\3.05.NewVirtualDifference.csproj", "{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.06.Abstract", "3.06.Abstract\3.06.Abstract.csproj", "{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.07.SystemObjectsAndHisMethods", "3.07.SystemObjectsAndHisMethods\3.07.SystemObjectsAndHisMethods.csproj", "{16F81DCD-E020-42BB-8D5D-A01558671637}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +367,14 @@ Global
 		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F81DCD-E020-42BB-8D5D-A01558671637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F81DCD-E020-42BB-8D5D-A01558671637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F81DCD-E020-42BB-8D5D-A01558671637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F81DCD-E020-42BB-8D5D-A01558671637}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
