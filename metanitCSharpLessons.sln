@@ -117,6 +117,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02.TypeConversion", "3.02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.03.VirtualMethods", "3.03.VirtualMethods\3.03.VirtualMethods.csproj", "{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.04.MethodsPropHiding", "3.04.MethodsPropHiding\3.04.MethodsPropHiding.csproj", "{101F6ED8-6580-4276-A9DE-13451693605E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.05.NewVirtualDifference", "3.05.NewVirtualDifference\3.05.NewVirtualDifference.csproj", "{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +355,14 @@ Global
 		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101F6ED8-6580-4276-A9DE-13451693605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101F6ED8-6580-4276-A9DE-13451693605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101F6ED8-6580-4276-A9DE-13451693605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101F6ED8-6580-4276-A9DE-13451693605E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
