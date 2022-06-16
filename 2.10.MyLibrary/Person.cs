@@ -10,6 +10,14 @@
 
         public void Print() => Console.WriteLine($"Name = {name}");
     }
+    public class PublicState
+    {
+        internal void PringtInternal() => Console.WriteLine("Internal");
+        protected internal void PrintProtectedInternal() => Console.WriteLine("Protected internal");
+        public void PrintPublic() => Console.WriteLine("Public");
+    }
+    class DefaultState { }
+    internal class InternalState { }
 }
 
 //После компиляции библиотеки классов в папке проекта в каталоге bin/Debug/net6.0 мы

@@ -73,25 +73,49 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.23.Emun", "1.23.Emun\1.23
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.01.ClassesStructuresNamespace", "2.01.ClassesStructuresNamespace\2.01.ClassesStructuresNamespace.csproj", "{07D76A50-8969-4AC4-BF4B-BBACD416A306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.02.Cosntructors", "2.02.Cosntructors\2.02.Cosntructors.csproj", "{DF33D763-877A-4CA3-9A5E-66D65034C340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.02.Cosntructors", "2.02.Cosntructors\2.02.Cosntructors.csproj", "{DF33D763-877A-4CA3-9A5E-66D65034C340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.03.ProgramMain", "2.03.ProgramMain\2.03.ProgramMain.csproj", "{3EC5EC49-95B9-4CDE-9DCF-A6320E01E929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.03.ProgramMain", "2.03.ProgramMain\2.03.ProgramMain.csproj", "{3EC5EC49-95B9-4CDE-9DCF-A6320E01E929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.04.Structures", "2.04.Structures\2.04.Structures.csproj", "{9E30EBC1-08C5-4030-999D-AEA77D599AC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.04.Structures", "2.04.Structures\2.04.Structures.csproj", "{9E30EBC1-08C5-4030-999D-AEA77D599AC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.05.ValueAndReferenceTypes", "2.05.ValueAndReferenceTypes\2.05.ValueAndReferenceTypes.csproj", "{F01C7B24-7089-4F25-8834-A3C800F01D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.05.ValueAndReferenceTypes", "2.05.ValueAndReferenceTypes\2.05.ValueAndReferenceTypes.csproj", "{F01C7B24-7089-4F25-8834-A3C800F01D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.06.FieldOfView", "2.06.FieldOfView\2.06.FieldOfView.csproj", "{2CC2D280-EA91-4081-AF84-8286206B3DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.06.FieldOfView", "2.06.FieldOfView\2.06.FieldOfView.csproj", "{2CC2D280-EA91-4081-AF84-8286206B3DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.07.Namespace", "2.07.Namespace\2.07.Namespace.csproj", "{187E8D33-6144-41A6-82AE-8EE499DDFED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.07.Namespace", "2.07.Namespace\2.07.Namespace.csproj", "{187E8D33-6144-41A6-82AE-8EE499DDFED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.08.GlobalNamespace", "2.08.GlobalNamespace\2.08.GlobalNamespace.csproj", "{D7FB2459-493A-44A1-A13E-148DA17A7FCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.08.GlobalNamespace", "2.08.GlobalNamespace\2.08.GlobalNamespace.csproj", "{D7FB2459-493A-44A1-A13E-148DA17A7FCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.09.DefaultNamespace", "2.09.DefaultNamespace\2.09.DefaultNamespace.csproj", "{235D3363-9720-4BE8-A527-3AE19E6817FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.09.DefaultNamespace", "2.09.DefaultNamespace\2.09.DefaultNamespace.csproj", "{235D3363-9720-4BE8-A527-3AE19E6817FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10.Library", "2.10.Library\2.10.Library.csproj", "{3527EAC9-108E-4449-B44C-312475E00D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.10.Library", "2.10.Library\2.10.Library.csproj", "{3527EAC9-108E-4449-B44C-312475E00D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10.MyLibrary", "2.10.MyLibrary\2.10.MyLibrary.csproj", "{56B0D714-9E67-4885-83D9-68CDAB9F63C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.10.MyLibrary", "2.10.MyLibrary\2.10.MyLibrary.csproj", "{56B0D714-9E67-4885-83D9-68CDAB9F63C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.11.AccessModifiers", "2.11.AccessModifiers\2.11.AccessModifiers.csproj", "{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.12.Properties", "2.12.Properties\2.12.Properties.csproj", "{535B80BA-0903-4D0B-A292-0534F395CB1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.13.MethodsOverloading", "2.13.MethodsOverloading\2.13.MethodsOverloading.csproj", "{CFE22A2E-0EE4-4FB6-A5A4-342EEDFFA2F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.14.Static", "2.14.Static\2.14.Static.csproj", "{F2B8046F-8D1C-4304-A24D-05DEFE3CE391}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.15.Readonly", "2.15.Readonly\2.15.Readonly.csproj", "{E056BCEE-55EE-47E3-B29E-09DC50058039}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.16.NullAndReferenceTypes", "2.16.NullAndReferenceTypes\2.16.NullAndReferenceTypes.csproj", "{B94790F8-F43E-4B2F-B74A-5173304028BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.17.NullAndValueTypes", "2.17.NullAndValueTypes\2.17.NullAndValueTypes.csproj", "{3F144FA7-97C9-4550-9171-17BA0CAC2DA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.18.NullCheck", "2.18.NullCheck\2.18.NullCheck.csproj", "{D9A7BD9F-1ECC-4EE2-AFE0-2C269C954539}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.19.TypeAliasesAndStaticImport", "2.19.TypeAliasesAndStaticImport\2.19.TypeAliasesAndStaticImport.csproj", "{3623CEA1-FA9F-4419-9025-9A95939267E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.01.Inheritance", "3.01.Inheritance\3.01.Inheritance.csproj", "{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02.TypeConversion", "3.02.TypeConversion\3.02.TypeConversion.csproj", "{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.03.VirtualMethods", "3.03.VirtualMethods\3.03.VirtualMethods.csproj", "{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +303,54 @@ Global
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56B0D714-9E67-4885-83D9-68CDAB9F63C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0006AA44-6872-45F6-BE6B-C8A7F63EAE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535B80BA-0903-4D0B-A292-0534F395CB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535B80BA-0903-4D0B-A292-0534F395CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535B80BA-0903-4D0B-A292-0534F395CB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535B80BA-0903-4D0B-A292-0534F395CB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE22A2E-0EE4-4FB6-A5A4-342EEDFFA2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE22A2E-0EE4-4FB6-A5A4-342EEDFFA2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE22A2E-0EE4-4FB6-A5A4-342EEDFFA2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE22A2E-0EE4-4FB6-A5A4-342EEDFFA2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B8046F-8D1C-4304-A24D-05DEFE3CE391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B8046F-8D1C-4304-A24D-05DEFE3CE391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B8046F-8D1C-4304-A24D-05DEFE3CE391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B8046F-8D1C-4304-A24D-05DEFE3CE391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E056BCEE-55EE-47E3-B29E-09DC50058039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E056BCEE-55EE-47E3-B29E-09DC50058039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E056BCEE-55EE-47E3-B29E-09DC50058039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E056BCEE-55EE-47E3-B29E-09DC50058039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94790F8-F43E-4B2F-B74A-5173304028BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94790F8-F43E-4B2F-B74A-5173304028BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94790F8-F43E-4B2F-B74A-5173304028BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94790F8-F43E-4B2F-B74A-5173304028BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F144FA7-97C9-4550-9171-17BA0CAC2DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F144FA7-97C9-4550-9171-17BA0CAC2DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F144FA7-97C9-4550-9171-17BA0CAC2DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F144FA7-97C9-4550-9171-17BA0CAC2DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A7BD9F-1ECC-4EE2-AFE0-2C269C954539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A7BD9F-1ECC-4EE2-AFE0-2C269C954539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A7BD9F-1ECC-4EE2-AFE0-2C269C954539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A7BD9F-1ECC-4EE2-AFE0-2C269C954539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3623CEA1-FA9F-4419-9025-9A95939267E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3623CEA1-FA9F-4419-9025-9A95939267E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3623CEA1-FA9F-4419-9025-9A95939267E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3623CEA1-FA9F-4419-9025-9A95939267E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
