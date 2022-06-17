@@ -27,6 +27,7 @@ Console.WriteLine(clock.ToString());
 Console.WriteLine(person);
 Console.WriteLine(clock);
 
+//  метод Equals
 var p1 = new Person3 { Name = "Alex" };
 var p2 = new Person3 { Name = "Bill" };
 var p3 = new Person3 { Name = "Alex" };
