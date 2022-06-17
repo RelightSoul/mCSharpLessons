@@ -113,23 +113,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.19.TypeAliasesAndStaticIm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.01.Inheritance", "3.01.Inheritance\3.01.Inheritance.csproj", "{2355A990-BD78-46A1-B8DE-1F4D0CA3D834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02.TypeConversion", "3.02.TypeConversion\3.02.TypeConversion.csproj", "{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.02.TypeConversion", "3.02.TypeConversion\3.02.TypeConversion.csproj", "{4A60ACA9-3E40-474A-A06E-4D766FD14BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.03.VirtualMethods", "3.03.VirtualMethods\3.03.VirtualMethods.csproj", "{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.03.VirtualMethods", "3.03.VirtualMethods\3.03.VirtualMethods.csproj", "{B332BD2A-79D1-4F7C-A98E-5B5118D0585A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.04.MethodsPropHiding", "3.04.MethodsPropHiding\3.04.MethodsPropHiding.csproj", "{101F6ED8-6580-4276-A9DE-13451693605E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.04.MethodsPropHiding", "3.04.MethodsPropHiding\3.04.MethodsPropHiding.csproj", "{101F6ED8-6580-4276-A9DE-13451693605E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.05.NewVirtualDifference", "3.05.NewVirtualDifference\3.05.NewVirtualDifference.csproj", "{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.05.NewVirtualDifference", "3.05.NewVirtualDifference\3.05.NewVirtualDifference.csproj", "{E8BE885A-288D-4CDE-A3A8-F41F9BA3DC80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.06.Abstract", "3.06.Abstract\3.06.Abstract.csproj", "{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.06.Abstract", "3.06.Abstract\3.06.Abstract.csproj", "{64AC16C7-F936-4DAA-9823-3AE92BFE0F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.07.SystemObjectsAndHisMethods", "3.07.SystemObjectsAndHisMethods\3.07.SystemObjectsAndHisMethods.csproj", "{16F81DCD-E020-42BB-8D5D-A01558671637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.07.SystemObjectsAndHisMethods", "3.07.SystemObjectsAndHisMethods\3.07.SystemObjectsAndHisMethods.csproj", "{16F81DCD-E020-42BB-8D5D-A01558671637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08.Generics", "3.08.Generics\3.08.Generics.csproj", "{F1BEDEE2-AEE6-49C8-9D74-B9CA53D13125}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.08.Generics", "3.08.Generics\3.08.Generics.csproj", "{F1BEDEE2-AEE6-49C8-9D74-B9CA53D13125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08.01.HomeworkGenerics", "3.08.01.HomeworkGenerics\3.08.01.HomeworkGenerics.csproj", "{1507CC21-D3BF-4910-B8D6-7814C834E802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.08.01.HomeworkGenerics", "3.08.01.HomeworkGenerics\3.08.01.HomeworkGenerics.csproj", "{1507CC21-D3BF-4910-B8D6-7814C834E802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08.02.HomeworkGenerics", "3.08.02.HomeworkGenerics\3.08.02.HomeworkGenerics.csproj", "{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.08.02.HomeworkGenerics", "3.08.02.HomeworkGenerics\3.08.02.HomeworkGenerics.csproj", "{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.09.GenericsWhere", "3.09.GenericsWhere\3.09.GenericsWhere.csproj", "{B28A5320-7E71-46F1-87DE-B62802E4C810}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28A5320-7E71-46F1-87DE-B62802E4C810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28A5320-7E71-46F1-87DE-B62802E4C810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28A5320-7E71-46F1-87DE-B62802E4C810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28A5320-7E71-46F1-87DE-B62802E4C810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
