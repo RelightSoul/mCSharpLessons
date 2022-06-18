@@ -131,23 +131,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.08.01.HomeworkGenerics", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.08.02.HomeworkGenerics", "3.08.02.HomeworkGenerics\3.08.02.HomeworkGenerics.csproj", "{0C74BE4D-9838-4B17-B9C2-1089EC8354AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.09.GenericsWhere", "3.09.GenericsWhere\3.09.GenericsWhere.csproj", "{B28A5320-7E71-46F1-87DE-B62802E4C810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.09.GenericsWhere", "3.09.GenericsWhere\3.09.GenericsWhere.csproj", "{B28A5320-7E71-46F1-87DE-B62802E4C810}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.10.InheritanceGenercis", "3.10.InheritanceGenercis\3.10.InheritanceGenercis.csproj", "{2C1B24AC-F03C-412D-A5A2-E257A77C2E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.10.InheritanceGenercis", "3.10.InheritanceGenercis\3.10.InheritanceGenercis.csproj", "{2C1B24AC-F03C-412D-A5A2-E257A77C2E33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.01.TryCatchFinally", "4.01.TryCatchFinally\4.01.TryCatchFinally.csproj", "{7B1DEBF8-D1E9-4643-8ADA-95BE0CCF7DEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.01.TryCatchFinally", "4.01.TryCatchFinally\4.01.TryCatchFinally.csproj", "{7B1DEBF8-D1E9-4643-8ADA-95BE0CCF7DEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.02.CatchWhen", "4.02.CatchWhen\4.02.CatchWhen.csproj", "{E925DE54-E4A9-4F99-B159-A29DC0B49233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.02.CatchWhen", "4.02.CatchWhen\4.02.CatchWhen.csproj", "{E925DE54-E4A9-4F99-B159-A29DC0B49233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.03.ClassException", "4.03.ClassException\4.03.ClassException.csproj", "{9278E188-7B55-4EE8-A2A1-00394510D263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.03.ClassException", "4.03.ClassException\4.03.ClassException.csproj", "{9278E188-7B55-4EE8-A2A1-00394510D263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.04.OperatorThrow", "4.04.OperatorThrow\4.04.OperatorThrow.csproj", "{A237828E-4B90-4BAC-8AE0-B473DB3C468A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.04.OperatorThrow", "4.04.OperatorThrow\4.04.OperatorThrow.csproj", "{A237828E-4B90-4BAC-8AE0-B473DB3C468A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.05.CreateClassExcentions", "4.05.CreateClassExcentions\4.05.CreateClassExcentions.csproj", "{AE68FFEC-5A5B-4607-B405-860BC5F549BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.05.CreateClassExcentions", "4.05.CreateClassExcentions\4.05.CreateClassExcentions.csproj", "{AE68FFEC-5A5B-4607-B405-860BC5F549BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.06.SearchingForCatch", "4.06.SearchingForCatch\4.06.SearchingForCatch.csproj", "{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.06.SearchingForCatch", "4.06.SearchingForCatch\4.06.SearchingForCatch.csproj", "{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.01.Delegate", "5.01.Delegate\5.01.Delegate.csproj", "{688EAE5D-B7E5-4799-8B49-AF596F833338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.01.Delegate", "5.01.Delegate\5.01.Delegate.csproj", "{688EAE5D-B7E5-4799-8B49-AF596F833338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.02.DelegateExamples", "5.02.DelegateExamples\5.02.DelegateExamples.csproj", "{64779CDA-503B-4687-BBE1-D3F72FB59E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.03.AnonymousMethods", "5.03.AnonymousMethods\5.03.AnonymousMethods.csproj", "{2A76577D-754F-438B-8CF6-5D6010290778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.04.Lambdas", "5.04.Lambdas\5.04.Lambdas.csproj", "{4065060D-E4A1-40EB-A154-CD2EFD61E8AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +453,18 @@ Global
 		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64779CDA-503B-4687-BBE1-D3F72FB59E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64779CDA-503B-4687-BBE1-D3F72FB59E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64779CDA-503B-4687-BBE1-D3F72FB59E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64779CDA-503B-4687-BBE1-D3F72FB59E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A76577D-754F-438B-8CF6-5D6010290778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A76577D-754F-438B-8CF6-5D6010290778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A76577D-754F-438B-8CF6-5D6010290778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A76577D-754F-438B-8CF6-5D6010290778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4065060D-E4A1-40EB-A154-CD2EFD61E8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4065060D-E4A1-40EB-A154-CD2EFD61E8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4065060D-E4A1-40EB-A154-CD2EFD61E8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4065060D-E4A1-40EB-A154-CD2EFD61E8AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
