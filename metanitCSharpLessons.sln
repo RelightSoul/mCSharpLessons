@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.05.CreateClassExcentions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.06.SearchingForCatch", "4.06.SearchingForCatch\4.06.SearchingForCatch.csproj", "{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.01.Delegate", "5.01.Delegate\5.01.Delegate.csproj", "{688EAE5D-B7E5-4799-8B49-AF596F833338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12976CF0-81FC-4BCE-B8FE-5E0FD54B70ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688EAE5D-B7E5-4799-8B49-AF596F833338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
