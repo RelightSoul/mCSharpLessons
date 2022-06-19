@@ -115,7 +115,7 @@ class Program
     }
 }
 delegate E MessageConverter<in M, out E>(M message);
-delegate void MessageReceiver<in T>(T message);
-delegate T MessageBuilder<out T>(string message);
+delegate void MessageReceiver<in T>(T message);   // контравариантность
+delegate T MessageBuilder<out T>(string message); // ковариантность
 delegate void EmailReceiver(EmailMessage message);
 delegate Message MessageBuilder(string text);
