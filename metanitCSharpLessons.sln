@@ -163,23 +163,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.07.ActionPredicateFunc", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.08.Closure", "5.08.Closure\5.08.Closure.csproj", "{9C8CED9A-7E3E-4D81-8415-8AAFBD0E37E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.01.DefiningInterfaces", "6.01.DefiningInterfaces\6.01.DefiningInterfaces.csproj", "{0E22696A-D1B1-40E7-BB27-A302728A0C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.01.DefiningInterfaces", "6.01.DefiningInterfaces\6.01.DefiningInterfaces.csproj", "{0E22696A-D1B1-40E7-BB27-A302728A0C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.02.ApplicationOfInterfaces", "6.02.ApplicationOfInterfaces\6.02.ApplicationOfInterfaces.csproj", "{374B72D9-1D86-4FF3-BFB1-D825745FF563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.02.ApplicationOfInterfaces", "6.02.ApplicationOfInterfaces\6.02.ApplicationOfInterfaces.csproj", "{374B72D9-1D86-4FF3-BFB1-D825745FF563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.03.ExplicityInterfaces", "6.03.ExplicityInterfaces\6.03.ExplicityInterfaces.csproj", "{2B84795D-D906-44F1-A534-74245CD90B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.03.ExplicityInterfaces", "6.03.ExplicityInterfaces\6.03.ExplicityInterfaces.csproj", "{2B84795D-D906-44F1-A534-74245CD90B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.04.InterfacesWithBaseAndInheritedClasses", "6.04.InterfacesWithBaseAndInheritedClasses\6.04.InterfacesWithBaseAndInheritedClasses.csproj", "{848BF2FB-3426-4BB9-8F9B-46909C8459DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.04.InterfacesWithBaseAndInheritedClasses", "6.04.InterfacesWithBaseAndInheritedClasses\6.04.InterfacesWithBaseAndInheritedClasses.csproj", "{848BF2FB-3426-4BB9-8F9B-46909C8459DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.05.InterfaceInheritance", "6.05.InterfaceInheritance\6.05.InterfaceInheritance.csproj", "{BA98A276-EEF6-474A-9D98-0843C5AEDBB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.05.InterfaceInheritance", "6.05.InterfaceInheritance\6.05.InterfaceInheritance.csproj", "{BA98A276-EEF6-474A-9D98-0843C5AEDBB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.06.InterfaceGenerics", "6.06.InterfaceGenerics\6.06.InterfaceGenerics.csproj", "{E1F3889A-1F53-405C-AB04-A2F4FAE075BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.06.InterfaceGenerics", "6.06.InterfaceGenerics\6.06.InterfaceGenerics.csproj", "{E1F3889A-1F53-405C-AB04-A2F4FAE075BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.07.ICloneable", "6.07.ICloneable\6.07.ICloneable.csproj", "{F9303763-0E9C-4CF3-98DA-4F631D1F9949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.07.ICloneable", "6.07.ICloneable\6.07.ICloneable.csproj", "{F9303763-0E9C-4CF3-98DA-4F631D1F9949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.08.IComparable", "6.08.IComparable\6.08.IComparable.csproj", "{DC5F3CF7-4206-4DD7-B4E0-421B2BD8C2E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.08.IComparable", "6.08.IComparable\6.08.IComparable.csproj", "{DC5F3CF7-4206-4DD7-B4E0-421B2BD8C2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.09.CovarianceContravarianceInterfaces", "6.09.CovarianceContravarianceInterfaces\6.09.CovarianceContravarianceInterfaces.csproj", "{370E95A5-8285-4EB2-84EA-7E940E62580A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.09.CovarianceContravarianceInterfaces", "6.09.CovarianceContravarianceInterfaces\6.09.CovarianceContravarianceInterfaces.csproj", "{370E95A5-8285-4EB2-84EA-7E940E62580A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.Operators", "7.01.Operators\7.01.Operators.csproj", "{3476C5CB-B91D-43D1-AE19-79DADCD420EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.01.HomeworkOperators", "7.01.01.HomeworkOperators\7.01.01.HomeworkOperators.csproj", "{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.02.HomeworkOperators", "7.01.02.HomeworkOperators\7.01.02.HomeworkOperators.csproj", "{0AFAAF57-F621-4905-82FE-B782A8993F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.OverloadingOperations", "7.02.OverloadingOperations\7.02.OverloadingOperations.csproj", "{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.01.HomeworkOverloadingOperations", "7.02.01.HomeworkOverloadingOperations\7.02.01.HomeworkOverloadingOperations.csproj", "{F44AA0A5-0865-4DA7-8161-461EFCBB293D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.02.HomeworkOverloadingOperations", "7.02.02.HomeworkOverloadingOperations\7.02.02.HomeworkOverloadingOperations.csproj", "{1B672D4B-2045-4C54-BE4E-159FC3C4D429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.03.HomeworkOverloadingOperations", "7.02.03.HomeworkOverloadingOperations\7.02.03.HomeworkOverloadingOperations.csproj", "{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -543,6 +557,34 @@ Global
 		{370E95A5-8285-4EB2-84EA-7E940E62580A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370E95A5-8285-4EB2-84EA-7E940E62580A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370E95A5-8285-4EB2-84EA-7E940E62580A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3476C5CB-B91D-43D1-AE19-79DADCD420EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3476C5CB-B91D-43D1-AE19-79DADCD420EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3476C5CB-B91D-43D1-AE19-79DADCD420EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3476C5CB-B91D-43D1-AE19-79DADCD420EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFAAF57-F621-4905-82FE-B782A8993F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFAAF57-F621-4905-82FE-B782A8993F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFAAF57-F621-4905-82FE-B782A8993F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFAAF57-F621-4905-82FE-B782A8993F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44AA0A5-0865-4DA7-8161-461EFCBB293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44AA0A5-0865-4DA7-8161-461EFCBB293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44AA0A5-0865-4DA7-8161-461EFCBB293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44AA0A5-0865-4DA7-8161-461EFCBB293D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B672D4B-2045-4C54-BE4E-159FC3C4D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B672D4B-2045-4C54-BE4E-159FC3C4D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B672D4B-2045-4C54-BE4E-159FC3C4D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B672D4B-2045-4C54-BE4E-159FC3C4D429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
