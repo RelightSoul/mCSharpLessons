@@ -57,6 +57,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("------ Ковариантные интерфейсы ------");
+
         IMessenger<Message> outlook = new EmailMessenger();
         Message message = outlook.WriteMessage("Hello World");
         Console.WriteLine(message.Text);     // Email: Hello World
@@ -73,6 +74,7 @@ class Program
         //  метода или ограничения методов интерфейса.
 
         Console.WriteLine("------ Контравариантные интерфейсы ------");
+
         IMessenger2<EmailMessage> outlook2 = new SimpleMessenger();
         outlook2.SendMessage(new EmailMessage("Hi"));
 
@@ -83,6 +85,7 @@ class Program
         //  применяться только к аргументам метода, но не может применяться к возвращаемому результату метода.
 
         Console.WriteLine("------ Совмещение ковариантности и контравариантности ------");
+
         IMessenger3<EmailMessage, Message> messenger3 = new SimpleMessenger3();
         Message message3 = messenger3.WriteMessage("Hello World");
         Console.WriteLine(message3.Text);
