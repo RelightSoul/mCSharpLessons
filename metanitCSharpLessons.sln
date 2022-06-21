@@ -181,27 +181,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.08.IComparable", "6.08.IC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.09.CovarianceContravarianceInterfaces", "6.09.CovarianceContravarianceInterfaces\6.09.CovarianceContravarianceInterfaces.csproj", "{370E95A5-8285-4EB2-84EA-7E940E62580A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.Operators", "7.01.Operators\7.01.Operators.csproj", "{3476C5CB-B91D-43D1-AE19-79DADCD420EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.01.Operators", "7.01.Operators\7.01.Operators.csproj", "{3476C5CB-B91D-43D1-AE19-79DADCD420EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.01.HomeworkOperators", "7.01.01.HomeworkOperators\7.01.01.HomeworkOperators.csproj", "{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.01.01.HomeworkOperators", "7.01.01.HomeworkOperators\7.01.01.HomeworkOperators.csproj", "{7D1EE709-D9BD-4A41-BF6F-9E9EA83E70A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.02.HomeworkOperators", "7.01.02.HomeworkOperators\7.01.02.HomeworkOperators.csproj", "{0AFAAF57-F621-4905-82FE-B782A8993F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.01.02.HomeworkOperators", "7.01.02.HomeworkOperators\7.01.02.HomeworkOperators.csproj", "{0AFAAF57-F621-4905-82FE-B782A8993F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.OverloadingOperations", "7.02.OverloadingOperations\7.02.OverloadingOperations.csproj", "{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.02.OverloadingOperations", "7.02.OverloadingOperations\7.02.OverloadingOperations.csproj", "{1DD672E0-8C89-4209-B8CC-E174EA71DA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.01.HomeworkOverloadingOperations", "7.02.01.HomeworkOverloadingOperations\7.02.01.HomeworkOverloadingOperations.csproj", "{F44AA0A5-0865-4DA7-8161-461EFCBB293D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.02.01.HomeworkOverloadingOperations", "7.02.01.HomeworkOverloadingOperations\7.02.01.HomeworkOverloadingOperations.csproj", "{F44AA0A5-0865-4DA7-8161-461EFCBB293D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.02.HomeworkOverloadingOperations", "7.02.02.HomeworkOverloadingOperations\7.02.02.HomeworkOverloadingOperations.csproj", "{1B672D4B-2045-4C54-BE4E-159FC3C4D429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.02.02.HomeworkOverloadingOperations", "7.02.02.HomeworkOverloadingOperations\7.02.02.HomeworkOverloadingOperations.csproj", "{1B672D4B-2045-4C54-BE4E-159FC3C4D429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.03.HomeworkOverloadingOperations", "7.02.03.HomeworkOverloadingOperations\7.02.03.HomeworkOverloadingOperations.csproj", "{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.02.03.HomeworkOverloadingOperations", "7.02.03.HomeworkOverloadingOperations\7.02.03.HomeworkOverloadingOperations.csproj", "{0DA50AA4-132D-4187-AB3B-0EDCDAE872EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.03.Indexers", "7.03.Indexers\7.03.Indexers.csproj", "{513545A5-4FBA-441A-BAB9-09B8F04FB0F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.03.Indexers", "7.03.Indexers\7.03.Indexers.csproj", "{513545A5-4FBA-441A-BAB9-09B8F04FB0F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.03.01.HomeworkIndexers", "7.03.01.HomeworkIndexers\7.03.01.HomeworkIndexers.csproj", "{5A1C21D2-4C69-49F3-8738-506FCA0113EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.03.01.HomeworkIndexers", "7.03.01.HomeworkIndexers\7.03.01.HomeworkIndexers.csproj", "{5A1C21D2-4C69-49F3-8738-506FCA0113EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.03.02.HomeworkIndexers", "7.03.02.HomeworkIndexers\7.03.02.HomeworkIndexers.csproj", "{D983B5D1-0C86-43DF-9CE9-B46FEBB8E455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.03.02.HomeworkIndexers", "7.03.02.HomeworkIndexers\7.03.02.HomeworkIndexers.csproj", "{D983B5D1-0C86-43DF-9CE9-B46FEBB8E455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.03.03.HomeworkIndexers", "7.03.03.HomeworkIndexers\7.03.03.HomeworkIndexers.csproj", "{4360394D-2FE9-41A0-B38B-82B5E2AAD9B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.03.03.HomeworkIndexers", "7.03.03.HomeworkIndexers\7.03.03.HomeworkIndexers.csproj", "{4360394D-2FE9-41A0-B38B-82B5E2AAD9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.04.RefParams", "7.04.RefParams\7.04.RefParams.csproj", "{F0525527-5751-47A9-9B3F-287A38364DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.05.ExtensionMethods", "7.05.ExtensionMethods\7.05.ExtensionMethods.csproj", "{C0BEFB3A-197C-4535-87C7-48608C885EB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -609,6 +613,14 @@ Global
 		{4360394D-2FE9-41A0-B38B-82B5E2AAD9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4360394D-2FE9-41A0-B38B-82B5E2AAD9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4360394D-2FE9-41A0-B38B-82B5E2AAD9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0525527-5751-47A9-9B3F-287A38364DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0525527-5751-47A9-9B3F-287A38364DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0525527-5751-47A9-9B3F-287A38364DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0525527-5751-47A9-9B3F-287A38364DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BEFB3A-197C-4535-87C7-48608C885EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BEFB3A-197C-4535-87C7-48608C885EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BEFB3A-197C-4535-87C7-48608C885EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BEFB3A-197C-4535-87C7-48608C885EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
