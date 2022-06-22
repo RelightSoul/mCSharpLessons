@@ -68,9 +68,9 @@ class Program
         }
 
         //  Кроме конструкции if сопоставление паттернов может применяться в конструкции switch:
-        UseEmployee3(tom);
-        UseEmployee3(bob);
-        UseEmployee3(maks);
+        UseEmployee3(tom);  //Manager works
+        UseEmployee3(bob);  //Object not a manager
+        UseEmployee3(maks); //Object is null
 
         void UseEmployee3(Employee emp)
         {
@@ -88,6 +88,28 @@ class Program
                     break;
             }
         }
+
+        //  С помощью выражения when можно вводить дополнительные условия в конструкцию case:
+        void UseEmployee4(Employee emp)
+        {
+            switch (emp)
+            {
+                //case Manager manager when manager.IsOnVacation == false:
+                case Manager manager when !manager.IsOnVacation:
+                    manager.Work();
+                    Console.WriteLine("Manager works");
+                    break;
+                case null:
+                    Console.WriteLine("Object is null");
+                    break;
+                default:
+                    Console.WriteLine("Object not a manager");
+                    break;
+            }
+        }
+        //  В этом случае опять же преобразуем объект emp в объект типа Manager и в случае удачного
+        //  преобразования смотрим на значение свойства IsOnVacation: если оно равно false, то выполняется
+        //  данный блок case.
     }
 }
 
