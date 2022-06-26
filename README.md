@@ -21,5 +21,5 @@
 11. DateTime  
 12. AdditionClassesStructures  
 13. Multithreading  
-14. 14.TaskParallelLibrary  
+14. TaskParallelLibrary  
 ... Добавляю по мере прохождения
