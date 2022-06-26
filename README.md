@@ -7,7 +7,7 @@
 
 Выписываю, разбираю каждую тему в VisualStudio и заливаю в данный репозиторий.
 
-Темы разбиты на главы:  
+Пройденные темы по главам:  
 01. BasicsCsharp  
 02. ClassesStructuresNamespaces  
 03. OOP  
