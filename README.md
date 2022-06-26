@@ -22,4 +22,5 @@
 12. AdditionClassesStructures  
 13. Multithreading  
 14. TaskParallelLibrary  
+15. AsyncProgramming  
 ... Добавляю по мере прохождения
