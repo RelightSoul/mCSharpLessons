@@ -23,4 +23,5 @@
 13. Multithreading  
 14. TaskParallelLibrary  
 15. AsyncProgramming  
+16. LINQ  
 ... Добавляю по мере прохождения
