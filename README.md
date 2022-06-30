@@ -26,4 +26,6 @@
 16. LINQ  
 17. LINQ Parallel  
 18. Reflection  
+19. DynamicLanguageRuntime  
+20. GarbageCollector
 ... Добавляю по мере прохождения
