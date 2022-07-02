@@ -147,4 +147,29 @@ using (FileStream fs = File.OpenRead(path))
 //  Курсор потока, с которого начинается чтение или запись, смещается вперед на значение offset относительно
 //  позиции, указанной в качестве второго параметра. Смещение может быть отрицательным, тогда курсор сдвигается
 //  назад, если положительное - то вперед.
+string path2 = "note.dat";
+
+string text2 = "hello world";
+
+using (FileStream fstream2 = new FileStream(path2, FileMode.OpenOrCreate))
+{
+    // преобразуем строку в байты
+    byte[] input = Encoding.Default.GetBytes(text2);
+    // запись массива байтов в файл
+    fstream2.Write(input, 0, input.Length);
+    Console.WriteLine("Текст записан в файл");
+}
+// чтение части файла
+using (FileStream fstream2 = new FileStream(path2, FileMode.OpenOrCreate))
+{
+    // перемещаем указатель в конец файла, до конца файла- пять байт
+    fstream2.Seek(-5, SeekOrigin.End); // минус 5 символов с конца потока
+
+    // считываем четыре символов с текущей позиции
+    byte[] output = new byte[5];
+    await fstream2.ReadAsync(output, 0, output.Length);
+    // декодируем байты в строку
+    string textFromFile = Encoding.Default.GetString(output);
+    Console.WriteLine($"Текст из файла: {textFromFile}"); // world
+}
 #endregion
