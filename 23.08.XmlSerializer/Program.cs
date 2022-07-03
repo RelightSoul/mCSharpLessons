@@ -77,9 +77,9 @@ using (FileStream fs = new FileStream("people.xml", FileMode.OpenOrCreate))
 
     if (newpeople != null)
     {
-        foreach (Person person in newpeople)
+        foreach (Person person3 in newpeople)
         {
-            Console.WriteLine($"Name: {person.Name} --- Age: {person.Age}");
+            Console.WriteLine($"Name: {person3.Name} --- Age: {person3.Age}");
         }
     }
 }
