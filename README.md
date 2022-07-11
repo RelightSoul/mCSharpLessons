@@ -1,4 +1,4 @@
-# metanitCSharpLessons
+# mCSharpLessons
 
 В данном разределе изучаю С# 10 и .NET 6.
 
